@@ -1,3 +1,9 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2022 Ko71k <rassmagin.rrr@gmail.com>
 
-#include <header.hpp>
+#include <iostream>
+#include "header.hpp"
+int main()
+{
+	SharedPtr<int> ptr;
+	return 0;
+} 
