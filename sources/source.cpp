@@ -4,9 +4,9 @@
 #include <header.hpp>
 
 class Rectangle {
- private:
-  uint width;
-  uint height;
+   private:
+   uint width;
+   uint height;
 
  public:
   Rectangle() : width(0), height(0) {
