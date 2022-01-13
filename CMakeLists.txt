@@ -33,7 +33,6 @@ add_library(${PROJECT_NAME} STATIC
   ${CMAKE_CURRENT_SOURCE_DIR}/sources/main.cpp
   # ${CMAKE_CURRENT_SOURCE_DIR}/sources/source.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/include/header.hpp)
-)
 
 add_executable(demo
   ${CMAKE_CURRENT_SOURCE_DIR}/demo/main.cpp
